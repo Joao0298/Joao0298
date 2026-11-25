@@ -1,84 +1,137 @@
-<!-- Cabeçalho -->
+<!-- Perfil profissional de João Nunes | GitHub Profile README -->
+
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=João%20Nunes&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvimento%20de%20Software%20%7C%20SaaS%20%7C%20Integrações&descSize=16&descAlignY=58" alt="Banner de apresentação de João Nunes" />
+# João Nunes
 
-  <a href="https://github.com/Joao0298">
-    <img src="https://img.shields.io/badge/GitHub-Joao0298-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Joao0298" />
-  </a>
-  <img src="https://img.shields.io/badge/Localização-Brasil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brasil" />
-  <img src="https://img.shields.io/badge/Status-Construindo%20projetos-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Construindo projetos" />
+### Software Developer · AI Engineering · Backend & Full-Stack
+
+**Python · TypeScript · JavaScript · APIs · React · Node.js · FastAPI**
+
+Desenvolvo aplicações, APIs e soluções de software com foco em inteligência artificial, automação, segurança e integração de sistemas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-nunes-data-science/)
+[![GitHub](https://img.shields.io/badge/GitHub-Joao0298-181717?style=for-the-badge&logo=github)](https://github.com/Joao0298)
 
 </div>
 
 ---
 
-## 👋 Olá! Seja bem-vindo ao meu GitHub
+## 👨‍💻 Sobre mim
 
-Sou **João Nunes** e estou focado em desenvolvimento de software, construção de produtos digitais e soluções que conectam tecnologia a problemas reais.
+Meu foco no GitHub é **desenvolvimento de software**: escrever código, construir aplicações, integrar serviços, testar funcionalidades e documentar soluções.
 
-Gosto de aprender na prática, explorar arquiteturas modernas e transformar ideias em projetos organizados, úteis e sustentáveis.
+Tenho interesse especial em:
+- Desenvolvimento backend com Python e Node.js.
+- Aplicações web com React e TypeScript.
+- APIs REST, integração entre sistemas e autenticação.
+- Agentes de IA e aplicações que utilizam modelos e ferramentas.
+- Segurança de aplicações e análise estática.
+- Engenharia de software, arquitetura e qualidade de código.
 
-- 🔭 **Projeto em destaque:** RTC Hub — uma plataforma SaaS voltada ao contexto da Reforma Tributária brasileira.
-- 💻 **Atuação em desenvolvimento:** aplicações web, APIs e integração entre sistemas.
-- 🌱 **Estudando e praticando:** arquitetura de software, segurança, APIs e desenvolvimento full stack.
-- 🎯 **Objetivo:** evoluir continuamente e construir soluções confiáveis, com código claro e documentação.
+## 🚀 Projetos em destaque
 
-## 🚀 Projeto em destaque
+### 1. TupiProof — análise de segurança de smart contracts
 
-### RTC Hub — Plataforma para a Reforma Tributária
+**Em desenvolvimento · Repositório privado**
 
-O RTC Hub é um projeto independente em desenvolvimento, pensado para apoiar empresas, profissionais contábeis e desenvolvedores na organização de informações e integrações relacionadas à Reforma Tributária.
+Ferramenta de análise pré-deploy para contratos Solidity. O fluxo do produto combina análise estática, explicações contextualizadas, revisão de correções e uma camada de evidências verificáveis.
 
-**Frentes de desenvolvimento:**
-- Workspace para organização de operações e informações fiscais.
-- Integrações por API e contratos documentados.
-- Arquitetura preparada para múltiplas organizações e usuários.
-- Consulta e organização de catálogos e metadados tributários.
+**Tecnologias e conceitos presentes no projeto:** Python, FastAPI, Slither, Solidity, Supabase, Row Level Security (RLS) e integração com Solana Attestation Service.
 
-> **Transparência:** o RTC Hub está em desenvolvimento. Não está homologado para produção e não deve ser utilizado como fonte de cálculo ou apuração oficial de tributos. Os cálculos oficiais dependem dos mecanismos e orientações da Receita Federal.
+O projeto possui upload e validação de arquivos Solidity, API autenticada, análise com Slither e fallback, histórico de auditorias, recuperação de conhecimento e fluxo de revisão humana de remediações.
 
-## 🧰 Tecnologias e ferramentas
+> É uma ferramenta de apoio à análise. Pontuação ou prova não certificam a segurança de um contrato nem substituem uma auditoria profissional.
+
+### 2. RTC Hub — SaaS e integração de sistemas
+
+**Em desenvolvimento · Repositório privado**
+
+Plataforma independente concebida para organizar simulações, auditoria e integrações relacionadas à Reforma Tributária do Consumo.
+
+**Tecnologias previstas na arquitetura:** Next.js, TypeScript, Java, Spring Boot, PostgreSQL, APIs REST, OpenAPI e Docker.
+
+O foco de engenharia está na separação entre frontend, API, domínio e adaptadores externos, contratos de integração e rastreabilidade.
+
+> Projeto em fase de fundação e especificação do MVP. A stack descrita é planejada e não representa funcionalidades prontas para produção.
+
+### 3. AgroLog AI — aplicação web para operações logísticas
+
+[![Repositório](https://img.shields.io/badge/Ver%20c%C3%B3digo-AgroLog%20AI-181717?style=flat&logo=github)](https://github.com/Joao0298/AgroLog-20AI)
+
+Projeto de aplicação web com interface, estrutura de servidor e componentes compartilhados.
+
+**Stack documentada:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Zod e Vitest.
+
+### 4. Agente de IA com LangChain
+
+[![Repositório](https://img.shields.io/badge/Ver%20c%C3%B3digo-LangChain%20Agent-181717?style=flat&logo=github)](https://github.com/Joao0298/Agente-de-IA-com-Planejamento-em-Python-usando-LangChain)
+
+Agente em Python que integra um modelo de linguagem a ferramentas externas para consultar dados de criptomoedas e notícias.
+
+**Tecnologias documentadas:** Python, LangChain, LangChain OpenAI, CoinGecko e Tavily.
+
+### 5. AgroChain — processamento e visualização de dados
+
+[![Repositório](https://img.shields.io/badge/Ver%20c%C3%B3digo-AgroChain-181717?style=flat&logo=github)](https://github.com/Joao0298/AgroChain)
+
+Projeto experimental de aplicação de dados ao agronegócio, com proposta de pipeline ETL, dados de sensores, visualização e experimentos com modelos preditivos.
+
+**Tecnologias documentadas:** Python e Streamlit.
+
+*Os resultados e métricas descritos no README do projeto precisam de validação reproduzível antes de serem apresentados como resultados comprovados.*
+
+## 🧪 Projetos práticos de programação e dados
+
+- [Challenge Alura Store](https://github.com/Joao0298/Challenge-Alura-Store) — notebook de análise de dados com Python, Pandas e visualização.
+- [Challenge Telecom X](https://github.com/Joao0298/Challenge-Alura-Telecom-X) — projeto de análise exploratória, transformação de dados e visualização com Python, Pandas, NumPy, Matplotlib e Seaborn.
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,spring,postgres,docker,git,github,vscode&perline=6" alt="Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Java, Spring, PostgreSQL, Docker, Git, GitHub e VS Code" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-**Stack utilizada nos estudos e projetos:**
+*As tecnologias refletem projetos, estudos e arquiteturas em diferentes estágios. As seções de cada projeto indicam quando uma tecnologia é implementada ou apenas planejada.*
 
-- **Frontend:** Next.js, React, TypeScript e Tailwind CSS.
-- **Backend:** Java 21 e Spring Boot.
-- **Dados:** PostgreSQL e Flyway.
-- **Infraestrutura e qualidade:** Docker, APIs REST, OpenAPI e testes automatizados.
+## 📚 Formação técnica relacionada à tecnologia
 
-## 📌 No que estou trabalhando
+- Fundamentos de Engenharia de Dados.
+- Desvendando a Blockchain.
+- Engenharia de Dados e IA Aplicada para Gestores de TIC.
 
-- Construção e evolução do RTC Hub.
-- Desenvolvimento de interfaces web e serviços backend.
-- Integração de sistemas por APIs REST.
-- Boas práticas de segurança, organização e testes.
+*As formações acima constam no currículo compartilhado. Não incluí certificados Alura sem conseguir confirmar os nomes e as respectivas credenciais. Esta seção será ampliada com cursos diretamente ligados a programação e desenvolvimento.*
 
-## 📊 Meu GitHub
+## 📈 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joao0298&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de João Nunes" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0298&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas nos repositórios públicos" />
-</div>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao0298&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao0298&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0298&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
 <div align="center">
 
-  **Obrigado pela visita!** 🚀
+**Código claro. Soluções úteis. Evolução contínua.**
 
-  *Aprendendo, construindo e evoluindo um commit de cada vez.*
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" alt="" />
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-nunes-data-science/) · [GitHub](https://github.com/Joao0298)
 
 </div>
